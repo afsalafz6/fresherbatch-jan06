@@ -9,18 +9,18 @@ body{
     height: 350px;
     background-color: #00ffff;
     margin: auto;
-    border-radius: 30px;
+    border-radius: 25px;
 }
 
 h1{
-    font-size: 47px;
+    font-size: 50px;
     font-weight: 600;
     color: #fff;
     text-transform: uppercase;
     margin-bottom: 20px;
     margin-left: 170px;
     background: #0000ff;
-    padding: 10px;
+    padding: 12px;
     border-radius: 5px;
     display: inline-block;
 }
