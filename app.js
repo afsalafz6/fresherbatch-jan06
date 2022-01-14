@@ -34,8 +34,10 @@ switch(dayOfWeekNumber){
         break;
 
 }
+//Display the day of the week
 let weekdayDiv = document.getElementById('weekday');
 weekdayDiv.innerHTML = `${nameOfDay}`;
 
+//Display quote
 let quoteDiv = document.getElementById('phrase');
 quoteDiv.innerHTML = `${quote}`
